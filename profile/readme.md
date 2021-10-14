@@ -4,8 +4,6 @@
 [<img alt="FusionCharts Downloads" src="https://img.shields.io/npm/dm/fusioncharts.svg" align="right" style="padding: 3px;">](https://www.fusioncharts.com/download)
 [<img alt="FusionCharts NPM Version" src="https://img.shields.io/npm/v/fusioncharts.svg" align="right" style="padding: 3px;">](https://www.npmjs.com/package/fusioncharts)
 ---
-[<img src="https://github.com/fusioncharts/.github/raw/master/profile/js-days-banner.png" alt="JSDays - All JavaScript. All Day. All Virtual" width="100%">](https://www.jsdays.io/)
----
 FusionCharts is a JavaScript charting library providing 100+ charts and 2,000+ maps for your web and mobile applications. All the visualizations are interactive and animated, which are rendered in SVG and VML (for IE 6/7/8).
 
 This package also contains FusionTime (timeseries charts), FusionWidgets (gauges, real-time charts), PowerCharts (statistical and advanced charts), and FusionMaps (choropleth geo maps).
