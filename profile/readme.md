@@ -25,7 +25,8 @@ This package also contains FusionTime (timeseries charts), FusionWidgets (gauges
 
   
 #### Improvements
-- FusionCharts version 4.1.0 upgrades the version for underline dependencies of the  'react-native-fusioncharts' package and makes it compatible with 0.70.x, 0.71.x, 0.72.x, 0.73.x and 0.74 versions. Removed expo dependency for the react-native-fusioncharts packages and not used native packages instead, giving some overall bundle size benefits.
+- FusionCharts version 4.1.0 upgrades the version for underline dependencies of the  'react-native-fusioncharts' package and makes it compatible with 0.70.x, 0.71.x, 0.72.x, 0.73.x and 0.74 versions.
+- Removed Expo dependency for the react-native-fusioncharts packages and now uses native packages instead, giving some overall bundle size benefits.
 - FusionCharts version 4.1.0 added new dynamic attributes to control the look and feel of the legend scrollbars.
    - The useLegendScrollGradient attribute determines whether to enable or disable gradient colors. If the set value is 1, you need to provide gradient colors for legendScrollTrackColor and legendScrollAnchorColor in the form of an object with angle, startColor, and endColor. If the value is set to 0, you should provide legendScrollTrackColor and legendScrollAnchorColor in hexadecimal format instead of an object.
 - Upgraded third-party integrations support:
